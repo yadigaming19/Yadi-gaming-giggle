@@ -1,0 +1,9 @@
+{
+  "max_spam": 200,
+  "typing_speed": 0.01,
+  "delay_between": 1.0,
+  "creator": "M.YADI",
+  "auto_open_browser": true,
+  "show_banner": true,
+  "version": "3.0"
+}
